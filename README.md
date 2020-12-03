@@ -1,11 +1,18 @@
 # Hello World!
 
-Not keep trying!
+Not keep trying! 🚀
 
 ## My ideas
 
-Interesting things require the effort!
+* All interesting things require the effort!
 
-Dejarme llevar por la curiosidad y aprender me hará mejorar.
+* Dejarme llevar por la curiosidad y aprender me hará mejorar.
 
-Viure la programació com a forma de vida. Tot el que val la pena mereix l'esforç!
+* Viure la programació com a forma de vida.
+
+## Author
+```
+joeThe
+```
+
+**[josepBoixVillar](https://www.linkedin.com/josepboixvillar)**
