@@ -1,5 +1,7 @@
 # Hello World!
 
+Not keep trying!
+
 ## My ideas
 
 Interesting things require the effort!
