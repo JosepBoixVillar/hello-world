@@ -15,4 +15,4 @@ Not keep trying! 🚀
 joeThe
 ```
 
-**[josepBoixVillar](https://www.linkedin.com/josepboixvillar)**
+**[josepBoixVillar](https://www.linkedin.com/josep-boix-villar)**
